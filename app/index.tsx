@@ -573,7 +573,7 @@ export default function SmartShoppingListApp() {
               ${Math.abs(remainingBudget).toFixed(2)}
             </Text>
           </View>
-        </View>
+          </View>
       )}
 
       {/* Search Bar */}
