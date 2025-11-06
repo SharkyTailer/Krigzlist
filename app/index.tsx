@@ -553,7 +553,7 @@ export default function SmartShoppingListApp() {
       {dailyBudget > 0 && (
         <View style={[styles.budgetContainer, isOverBudget && styles.budgetContainerOverBudget]}>
           <View style={styles.budgetRow}>
-            <Text style={styles.budgetLabel}>Budget:</Text>
+            <Text style={styles.budgetLabel}>Budgets:</Text>
             <Text style={styles.budgetAmount}>${dailyBudget.toFixed(2)}</Text>
           </View>
           <View style={styles.budgetRow}>
