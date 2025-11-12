@@ -64,3 +64,6 @@ Here's what you can do with KrigzList
 - Improving UI/UX through responsive design
 - Debugging with browser dev tools
 - Writing cleaner, modular code with reusable functions
+
+## 🚀 How to Run the Project
+### 🖥️ Option 1: Run Locally
