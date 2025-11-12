@@ -1,50 +1,70 @@
-# Welcome to your Expo app 👋
+# 🛒KrigzList
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A simple but powerful **shopping list web app** that helps users add, edit, and track grocery items intelligently.  
+It’s designed to make shopping faster, smarter, and a little more fun 😄  
 
-## Get started
+---
 
-1. Install dependencies
+## 💡 What It Does
 
-   ```bash
-   npm install
-   ```
+ **KrigzList** lets you:
+- ✅ Add items you need to buy  
+- ✏️ Edit or remove existing items  
+- 📱 Save your list so it stays even when you refresh (using local storage)  
+- 🧠 Automatically sort or categorize items to keep things organized  
+- 🌙 Switch between light and dark modes for a better UI experience  
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+### 🧰 Technologies
+---
+- ⚡ Vite  
+- ⚛️ React.js  
+- 🧠 TypeScript  
+- ✏️ Rough.js  
+- 🎨 CSS  
+- 🧪 Vitest  
+- 🔍 Cypress  
+- 🧰 Testing Library
+- Expo
 
-In the output, you'll find options to open the app in a
+ ### Features
+---
+Here's what you can do with KrigzList
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- 📝 Add, edit, and delete shopping list items
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- 💾 Auto-save lists to local storage
 
-## Get a fresh project
+- 🎨 Clean and responsive user interface
 
-When you're ready, run:
+- 🧭 Smart organization (sorts items alphabetically or by category)
 
-```bash
-npm run reset-project
-```
+- 🌗 Dark/light mode toggle
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- 📱 Mobile-friendly layout
 
-## Learn more
+###🛠️ How I Built It
+---
+- Started with the layout:
+  Used HTML and CSS to create a simple but responsive structure.
 
-To learn more about developing your project with Expo, look at the following resources:
+- Added interactivity:
+  Implemented JavaScript for adding, editing, and deleting items dynamically.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- Persistent storage:
+  Used localStorage so users don’t lose their list when they close the app.
 
-## Join the community
+- Smart logic:
+  Added sorting and duplicate-checking features to keep the list tidy.
 
-Join our community of developers creating universal apps.
+- UI polish:
+  Styled with modern CSS (flexbox, transitions, and custom color themes).
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+###🧠 What I Learned
+---
+- How to use DOM manipulation effectively in JavaScript
+- Managing data using the Local Storage API
+- Improving UI/UX through responsive design
+- Debugging with browser dev tools
+- Writing cleaner, modular code with reusable functions
