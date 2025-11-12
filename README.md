@@ -90,4 +90,14 @@ Here's what you can do with KrigzList
   
 This will open the Expo Developer Tools in your browser.
 
+## 💬 Future Improvements
+
+- 🔔 Add reminders or notifications
+
+- 🛍️ Sync lists with friends/family
+
+- ☁️ Add cloud sync for multiple devices
+
+- 🧾 Integrate with barcode scanning or voice input
+
 
