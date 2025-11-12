@@ -1,10 +1,10 @@
 # 🛒KrigzList
----
+
 A simple but powerful **shopping list web app** that helps users add, edit, and track grocery items intelligently.  
 It’s designed to make shopping faster, smarter, and a little more fun 😄  
 
 ## 💡 What It Does 
----
+
  **KrigzList** lets you:
 - ✅ Add items you need to buy  
 - ✏️ Edit or remove existing items  
@@ -13,7 +13,7 @@ It’s designed to make shopping faster, smarter, and a little more fun 😄
 - 🌙 Switch between light and dark modes for a better UI experience  
 
 ## 🧰 Technologies
----
+
 - ⚡ Vite  
 - ⚛️ React.js  
 - 🧠 TypeScript  
@@ -25,7 +25,7 @@ It’s designed to make shopping faster, smarter, and a little more fun 😄
 - Expo
 
  ## Features
----
+
 Here's what you can do with KrigzList
 
 - 📝 Add, edit, and delete shopping list items
@@ -41,7 +41,7 @@ Here's what you can do with KrigzList
 - 📱 Mobile-friendly layout
 
 ## 🛠️ How I Built It
----
+
 - Started with the layout:
   Used HTML and CSS to create a simple but responsive structure.
 
@@ -58,7 +58,7 @@ Here's what you can do with KrigzList
   Styled with modern CSS (flexbox, transitions, and custom color themes).
 
 ## 🧠 What I Learned
----
+
 - How to use DOM manipulation effectively in JavaScript
 - Managing data using the Local Storage API
 - Improving UI/UX through responsive design
