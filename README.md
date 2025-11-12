@@ -69,6 +69,7 @@ Here's what you can do with KrigzList
 ### 🖥️ Option 1: Run Locally
 
 - Clone this repository:
+  
     `git clone https://github.com/yourusername/smart-shopping-list.git`
 - Navigate to the project folder:
     `cd smart-shopping-list`
