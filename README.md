@@ -3,10 +3,8 @@
 A simple but powerful **shopping list web app** that helps users add, edit, and track grocery items intelligently.  
 It’s designed to make shopping faster, smarter, and a little more fun 😄  
 
+## 💡 What It Does 
 ---
-
-## 💡 What It Does
-
  **KrigzList** lets you:
 - ✅ Add items you need to buy  
 - ✏️ Edit or remove existing items  
