@@ -110,3 +110,7 @@ This will open the Expo Developer Tools in your browser.
 - ⭐ If you like this project, give it a star — it really helps!
 
 
+[![Watch Demo](assets/images/thumbnail.png)](https://drive.google.com/file/d/1v0m-F9U36DDEZ8CkkxqmcvEisXgE3Plz/view?usp=sharing)
+
+
+
